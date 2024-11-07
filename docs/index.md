@@ -1,4 +1,4 @@
-# iHRIS Documentation ![docs](https://github.com/iHRIS/ihris-documentation/workflows/docs/badge.svg)
+# iHRIS Documentation
 
 Welcome to the iHRIS technical documentation. There are two manuals. Choose the one based on your needs:
 

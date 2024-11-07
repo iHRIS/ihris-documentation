@@ -2,14 +2,14 @@
 site_name: 'iHRIS V5 Technical Documentation'
 site_description: 'Technical documentation for iHRIS V5'
 site_author: 'IntraHealth International'
-site_url: 'https://github.com/iHRIS/iHRIS'
+site_url: 'https://github.com/iHRIS/ihris-documentation'
 
 # Repository
 repo_name: 'iHRIS'
 repo_url: 'https://github.com/iHRIS'
 
 # Copyright
-copyright: 'Copyright &copy; 2020 IntraHealth International'
+copyright: 'Copyright &copy; 2024 IntraHealth International'
 
 # Theme
 theme:

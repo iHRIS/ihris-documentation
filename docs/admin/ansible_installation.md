@@ -38,7 +38,7 @@ sudo ansible-galaxy collection install community.postgresql
 
 The installer is inside iHRIS repo, you may partially clone iHRIS repo to get the installer only (recommended) or you may clone the entire iHRIS repo
 
-To partially clone the installer, run below commands
+To partially clone the installer only, run below commands
 ```bash
 git clone -n --depth=1 --filter=tree:0 https://github.com/iHRIS/iHRIS.git
 cd iHRIS/

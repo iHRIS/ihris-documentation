@@ -56,6 +56,8 @@ nav:
       - user/reports.md
       - user/system_users.md
       - user/ihris_apps.md
+  - iHRIS 4.3:
+      - v4/install_ubuntu.md
   - FAQs:
       - faq/faq.md
   - Video Tutorials:
